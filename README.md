@@ -6,6 +6,9 @@
 ## Found a bug?
 Please submit your issue [here](https://github.com/jhend11/Osiris-Team-Checker/issues/new).
 
+# Credits
+
+Credit to Reddit user RDSLVA for the Eye of Osiris wallpaper found [here](https://www.reddit.com/r/DestinyTheGame/comments/33qayz/media_trials_of_osiris_wallpaper/).
 
 ----
 # License
