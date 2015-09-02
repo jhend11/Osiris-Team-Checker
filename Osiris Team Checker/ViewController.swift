@@ -27,5 +27,8 @@ class ViewController: UIViewController,UITextFieldDelegate {
         self.view.endEditing(true)
         return false
     }
+    override func touchesBegan(touches: Set<UITouch>, withEvent event: UIEvent?) {
+        textFieldShouldReturn(searchTextfield)
+    }
 }
 
