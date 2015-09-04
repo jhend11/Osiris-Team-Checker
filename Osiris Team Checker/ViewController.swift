@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController,UITextFieldDelegate {
+    
+    let apiKey = "1c2ea6161c2647d6a68b9ccfecf7898e"
 
     @IBOutlet weak var systemToggle: UISegmentedControl!
     @IBOutlet weak var searchTextfield: UITextField!
