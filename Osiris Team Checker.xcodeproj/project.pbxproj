@@ -15,6 +15,8 @@
 		B4D7AC8C1B8438150045804C /* Osiris_Team_CheckerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D7AC8B1B8438150045804C /* Osiris_Team_CheckerTests.swift */; };
 		B4D7AC971B8438150045804C /* Osiris_Team_CheckerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D7AC961B8438150045804C /* Osiris_Team_CheckerUITests.swift */; };
 		B4D7ACA71B86A0280045804C /* Eye.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D7ACA61B86A0280045804C /* Eye.png */; };
+		B4FD87141B9AD76E00F64C1D /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FD87111B9AD60500F64C1D /* SwiftyJSON.swift */; settings = {ASSET_TAGS = (); }; };
+		B4FD87161B9AD9CE00F64C1D /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FD87151B9AD9CE00F64C1D /* DataManager.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		B4D7AC961B8438150045804C /* Osiris_Team_CheckerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Osiris_Team_CheckerUITests.swift; sourceTree = "<group>"; };
 		B4D7AC981B8438150045804C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B4D7ACA61B86A0280045804C /* Eye.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Eye.png; sourceTree = "<group>"; };
+		B4FD87111B9AD60500F64C1D /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		B4FD87151B9AD9CE00F64C1D /* DataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 			children = (
 				B4D7AC761B8438150045804C /* AppDelegate.swift */,
 				B4D7AC781B8438150045804C /* ViewController.swift */,
+				B4FD87151B9AD9CE00F64C1D /* DataManager.swift */,
+				B4FD87111B9AD60500F64C1D /* SwiftyJSON.swift */,
 				B4D7AC7A1B8438150045804C /* Main.storyboard */,
 				B4D7ACA61B86A0280045804C /* Eye.png */,
 				B4D7AC7D1B8438150045804C /* Assets.xcassets */,
@@ -260,6 +266,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B4FD87141B9AD76E00F64C1D /* SwiftyJSON.swift in Sources */,
+				B4FD87161B9AD9CE00F64C1D /* DataManager.swift in Sources */,
 				B4D7AC791B8438150045804C /* ViewController.swift in Sources */,
 				B4D7AC771B8438150045804C /* AppDelegate.swift in Sources */,
 			);

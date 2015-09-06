@@ -9,13 +9,29 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Osiris Team Checker/ViewController.swift"
-            timestampString = "463058931.868772"
+            filePath = "Osiris Team Checker/SwiftyJSON.swift"
+            timestampString = "463131817.5725"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "50"
-            endingLineNumber = "50"
-            landmarkName = "getMemberID()"
+            startingLineNumber = "1231"
+            endingLineNumber = "1231"
+            landmarkName = "&gt;=(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Osiris Team Checker/DataManager.swift"
+            timestampString = "463178059.072718"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "loadDataFromURL(_:completion:)"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
